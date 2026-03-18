@@ -25,3 +25,8 @@ https://jsonplaceholder.typicode.com/users
 
 ## Screenshots
 I have added the app screenshots in the `screenshots` folder.
+
+## APK Download
+The APK file for the application can be downloaded from the link below:
+
+[Download APK](https://expo.dev/accounts/vanshkamboj047/projects/UserListApp/builds/0b3a0739-2321-4cd4-818f-256218a5b2d0)
